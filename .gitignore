@@ -1,0 +1,6 @@
+.terraform
+terraform.tfstate.d
+.terraform.lock.hcl
+main.zip
+terraformplan
+terraform.tfstate
